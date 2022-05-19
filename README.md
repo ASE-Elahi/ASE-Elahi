@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ASE-Elahi
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full-Stack Web Development
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning .Net Framework
 - 📫 To reach me, contact: mdalshakibeelahi@gmail.com
 
 <!---

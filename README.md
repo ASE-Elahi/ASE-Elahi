@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ASE-Elahi
+- 👋 Hi, I’m AL SHAKIB E ELAHI
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning .Net Framework
 - 📫 To reach me, contact: mdalshakibeelahi@gmail.com
